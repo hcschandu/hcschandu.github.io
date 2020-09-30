@@ -1,5 +1,5 @@
 .first {
-    background: lightblue url(/Users/chandrasekharhari/Documents/projects/website/mywebsite/assets/img/Ocean_View.jpeg)
+    background: lightblue url(assets/img/Ocean_View.jpeg)
 		 no-repeat center;
     background-size: cover;
 		background-repeat: repeat-y;
@@ -8,7 +8,7 @@
 }
 
 .rest {
-    background: lightblue url(/Users/chandrasekharhari/Documents/projects/website/mywebsite/assets/img/stairs.jpg)
+    background: lightblue url(assets/img/stairs.jpg)
 		 no-repeat center;
     background-size: cover;
 		background-repeat: repeat-y;
